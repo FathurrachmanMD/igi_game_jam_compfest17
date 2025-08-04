@@ -10,7 +10,7 @@ public class MainMenuManager : MonoBehaviour
     {
         // Memuat scene dengan nama "Level01"
         // Pastikan nama ini sama persis dengan nama file scene game Anda.
-        SceneManager.LoadScene("Level01");
+        SceneManager.LoadScene("GameScene");
     }
 
     // Fungsi ini akan dipanggil oleh tombol "Keluar"
