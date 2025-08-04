@@ -23,4 +23,9 @@ public class MainMenuManager : MonoBehaviour
         // Ini hanya akan bekerja di versi game yang sudah di-build, bukan di Editor Unity.
         Application.Quit();
     }
+
+    public void OpenAboutScene()
+    {
+        SceneManager.LoadScene("AboutMenu");
+    }
 }
