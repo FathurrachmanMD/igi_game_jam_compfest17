@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_CustomBlends:
   - m_From: Camera Kamar
-    m_To: Camera Outdoor
+    m_To: Camera Kamar (1)
     m_Blend:
       m_Style: 1
       m_Time: 2
